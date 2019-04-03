@@ -1,0 +1,50 @@
+body{
+	text-align: center;
+	font-family: bold;
+}
+#logo{
+	background-color: red;
+}
+#banner{
+	background-color: yellow;
+}
+#socialMedia{
+	background-color: blue;
+}
+#brand{
+	background-color: green;
+}
+#hNavigation{
+	background-color: orange;
+}
+#searchbox{
+	background-color: #f34529;
+}
+#slider{
+	/*background-color: indigo;*/
+	height: 300px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#col1{
+	background-color: #f32f78;
+}
+#col2{
+	background-color: #f3ff79;
+}
+#col3{
+	background-color: green;
+}
+#footer{
+	background-color: red;
+}
+#futa{
+	background-color: cyan;
+	width: 100%;
+	padding: 25px;
+	padding-right:660px;
+	padding-left: 300px;
+}
+#futa p{
+	text-align: center;
+}
